@@ -7,7 +7,7 @@ class Kodit < Formula
     sha256 "31997b68bdd5efe92dd0b1007401838f061f15f9ac37064f8006dcfdb2b8c16e"
     license "Apache-2.0"
   
-    depends_on "python@3.12"
+    depends_on "python@3.13"
     depends_on "uv"
   
     def install

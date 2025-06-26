@@ -3,8 +3,8 @@ class Kodit < Formula
   
     desc "Kodit is an MCP server that indexes your private codebases"
     homepage "https://docs.helixml.tech/kodit/"
-    url "https://pypi.org/packages/source/k/kodit/kodit-0.2.8.tar.gz"
-    sha256 "411d4d615bd8dd6777647612831aaaf1463fc45509c619ea591a945ad5df1153"
+    url "https://pypi.org/packages/source/k/kodit/kodit-0.2.9.tar.gz"
+    sha256 "900f1de47f94334857082b6265c14062cd49f4cc01dbd9cffe47ed7b1081ff2f"
     license "Apache-2.0"
   
     depends_on "python@3.13"
